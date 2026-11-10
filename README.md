@@ -33,6 +33,17 @@ BSc Computer Science (PJATK) · English C1 · Polish B1 · Russian C2 · Microso
 
 </div>
 
+## Currently
+
+Junior AI Engineer at **INK Solutions / SellifyAI** (Dec 2025 – present): LLM voice/SMS agents, AI coding harness tooling and LLM evaluation.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janjurinok/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janjurinoko@gmail.com)
+
+</div>
+
 ## Featured projects
 
 <table>
@@ -57,14 +68,3 @@ BSc Computer Science (PJATK) · English C1 · Polish B1 · Russian C2 · Microso
     </td>
   </tr>
 </table>
-
-## Currently
-
-Junior AI Engineer at **INK Solutions / SellifyAI** (Dec 2025 – present): LLM voice/SMS agents, AI coding harness tooling and LLM evaluation.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janjurinok/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janjurinoko@gmail.com)
-
-</div>
